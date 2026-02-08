@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+Sitemap: https://elektrohegedis.hr/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
