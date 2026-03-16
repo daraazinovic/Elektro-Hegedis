@@ -887,3 +887,9 @@
 [2026-03-16T21:58:13.670Z] {"timestamp":1773698291658,"level":"DEBUG","args":["[vite] connected."],"stack":null}
 [2026-03-16T22:11:13.186Z] {"timestamp":1773699071170,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
 [2026-03-16T22:11:13.186Z] {"timestamp":1773699071203,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-16T22:14:19.549Z] {"timestamp":1773699257533,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-16T22:14:19.549Z] {"timestamp":1773699257539,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-16T22:15:07.428Z] {"timestamp":1773699305412,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-16T22:15:07.428Z] {"timestamp":1773699305415,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-16T22:16:13.524Z] {"timestamp":1773699371512,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-16T22:16:13.524Z] {"timestamp":1773699371544,"level":"DEBUG","args":["[vite] connected."],"stack":null}
