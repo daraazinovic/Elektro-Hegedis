@@ -333,3 +333,549 @@
 [2026-02-08T23:12:46.694Z] {"timestamp":1770592363716,"level":"DEBUG","args":["[vite] connected."],"stack":null}
 [2026-02-08T23:12:49.653Z] {"timestamp":1770592367646,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
 [2026-02-08T23:12:49.653Z] {"timestamp":1770592367651,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-08T23:16:35.824Z] {"timestamp":1770592594918,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595691,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595692,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595692,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595692,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595706,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595837,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595904,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595904,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595912,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595913,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595913,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592595913,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596169,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596169,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596169,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596169,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596240,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596240,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596241,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596242,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:38.576Z] {"timestamp":1770592596242,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:16:40.576Z] {"timestamp":1770592597847,"level":"LOG","args":["FBNavINP:144"],"stack":null}
+[2026-02-08T23:16:46.578Z] {"timestamp":1770592604699,"level":"LOG","args":["FBNavINP:240"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619592,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619592,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619593,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619593,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619593,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619611,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:00.564Z] {"timestamp":1770592619611,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620088,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620088,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620088,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620088,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620088,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620100,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620101,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620102,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620103,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620103,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620103,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620103,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620103,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620103,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620104,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620104,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620104,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620105,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620105,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620105,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:02.571Z] {"timestamp":1770592620105,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630951,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630951,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630951,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630951,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630951,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630952,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630953,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630953,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630953,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630954,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630954,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630954,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630955,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630955,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630955,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630955,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630955,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630956,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630956,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630957,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:17:12.569Z] {"timestamp":1770592630957,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862542,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862543,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862543,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862543,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862543,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862552,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862553,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862564,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862564,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862565,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862565,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862565,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862566,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862566,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862566,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862567,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862567,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862567,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862567,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862573,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:04.964Z] {"timestamp":1770592862574,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:21:59.559Z] {"timestamp":1770592889823,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001977,"level":"LOG","args":["FBNavResponseStart:1770592595240"],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001977,"level":"LOG","args":["FBNavResponseEnd:1770592595279"],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001977,"level":"LOG","args":["FBNavDomContentLoaded:1770592595904"],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001977,"level":"LOG","args":["FBNavLoadEventEnd:1770592619566"],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001977,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001984,"level":"LOG","args":["FBNavFirstContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:23:22.950Z] {"timestamp":1770593001985,"level":"LOG","args":["FBNavLargestContentfulPaint:1770592596235"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002366,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002368,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002368,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002369,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002380,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002470,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002522,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002523,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002535,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002535,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002535,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002535,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002724,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002724,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002724,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002724,"level":"LOG","args":["FBNavLoadEventEnd:1770593002536"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002724,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002725,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002725,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002725,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002725,"level":"LOG","args":["FBNavLoadEventEnd:1770593002536"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002725,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002794,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002794,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002794,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002794,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002794,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002795,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002795,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002795,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002795,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593002795,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003609,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003609,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003609,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003609,"level":"LOG","args":["FBNavLoadEventEnd:1770593002536"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003609,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003610,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003610,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003622,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003622,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003622,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003622,"level":"LOG","args":["FBNavLoadEventEnd:1770593002536"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003622,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003623,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003623,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003626,"level":"LOG","args":["FBNavResponseStart:1770593001989"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003626,"level":"LOG","args":["FBNavResponseEnd:1770593001996"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003626,"level":"LOG","args":["FBNavDomContentLoaded:1770593002522"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003626,"level":"LOG","args":["FBNavLoadEventEnd:1770593002536"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003626,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003627,"level":"LOG","args":["FBNavFirstContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:23:25.239Z] {"timestamp":1770593003627,"level":"LOG","args":["FBNavLargestContentfulPaint:1770593002761"],"stack":null}
+[2026-02-08T23:28:50.092Z] {"timestamp":1770593328079,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-08T23:28:50.092Z] {"timestamp":1770593328082,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:29:08.679Z] {"timestamp":1770593334339,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-09T20:29:08.679Z] {"timestamp":1770593334333,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-09T20:29:08.728Z] {"timestamp":1770593334350,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-09T20:29:30.089Z] {"timestamp":1770668968072,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:29:30.089Z] {"timestamp":1770668968074,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:29:31.819Z] {"timestamp":1770668970781,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:29:31.819Z] {"timestamp":1770668970785,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:29:33.867Z] {"timestamp":1770668971860,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:29:33.867Z] {"timestamp":1770668971863,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987190,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987207,"level":"LOG","args":["FBNavResponseStart:1770668986944"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987207,"level":"LOG","args":["FBNavResponseEnd:1770668986986"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987207,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987221,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987326,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987374,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987374,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987380,"level":"LOG","args":["FBNavResponseStart:1770668986944"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987380,"level":"LOG","args":["FBNavResponseEnd:1770668986986"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987380,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987380,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987621,"level":"LOG","args":["FBNavMaxLongtaskMs:152"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987622,"level":"LOG","args":["FBNavResponseStart:1770668986944"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987622,"level":"LOG","args":["FBNavResponseEnd:1770668986986"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987622,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987622,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987663,"level":"LOG","args":["FBNavResponseStart:1770668986944"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987663,"level":"LOG","args":["FBNavResponseEnd:1770668986986"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987663,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987663,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987845,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987846,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987972,"level":"LOG","args":["FBNavResponseStart:1770668986944"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987972,"level":"LOG","args":["FBNavResponseEnd:1770668986986"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987972,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987972,"level":"LOG","args":["FBNavLoadEventEnd:1770668987831"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987972,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987974,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987974,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987979,"level":"LOG","args":["FBNavResponseStart:1770668986944"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987979,"level":"LOG","args":["FBNavResponseEnd:1770668986986"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987979,"level":"LOG","args":["FBNavDomContentLoaded:1770668987374"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987981,"level":"LOG","args":["FBNavLoadEventEnd:1770668987831"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987981,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987987,"level":"LOG","args":["FBNavFirstContentfulPaint:1770668987784"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668987987,"level":"LOG","args":["FBNavLargestContentfulPaint:1770668987760"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668988127,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668988128,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668988128,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668988776,"level":"LOG","args":["FBNavINP:56"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668988814,"level":"LOG","args":["FBNavINP:64"],"stack":null}
+[2026-02-09T20:29:50.327Z] {"timestamp":1770668988955,"level":"LOG","args":["FBNavINP:96"],"stack":null}
+[2026-02-09T20:29:59.290Z] {"timestamp":1770668997274,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:29:59.290Z] {"timestamp":1770668997277,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:31:46.012Z] {"timestamp":1770669103997,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:31:46.012Z] {"timestamp":1770669103999,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:57:08.327Z] {"timestamp":1770670029785,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-09T20:57:08.432Z] {"timestamp":1770670029788,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635451,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635478,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635570,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635615,"level":"LOG","args":["FBNavDomContentLoaded:1770670635615"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635620,"level":"LOG","args":["FBNavResponseStart:1770670635323"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635621,"level":"LOG","args":["FBNavResponseEnd:1770670635329"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635621,"level":"LOG","args":["FBNavDomContentLoaded:1770670635615"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635621,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635847,"level":"LOG","args":["FBNavMaxLongtaskMs:54"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635847,"level":"LOG","args":["FBNavMaxLongtaskMs:128"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635848,"level":"LOG","args":["FBNavResponseStart:1770670635323"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635848,"level":"LOG","args":["FBNavResponseEnd:1770670635329"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635848,"level":"LOG","args":["FBNavDomContentLoaded:1770670635615"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635848,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635885,"level":"LOG","args":["FBNavResponseStart:1770670635323"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635885,"level":"LOG","args":["FBNavResponseEnd:1770670635329"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635885,"level":"LOG","args":["FBNavDomContentLoaded:1770670635615"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670635885,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636033,"level":"LOG","args":["FBNavResponseStart:1770670635323"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636033,"level":"LOG","args":["FBNavResponseEnd:1770670635329"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636033,"level":"LOG","args":["FBNavDomContentLoaded:1770670635615"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636033,"level":"LOG","args":["FBNavLoadEventEnd:1770670635957"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636033,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636034,"level":"LOG","args":["FBNavResponseStart:1770670635323"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636034,"level":"LOG","args":["FBNavResponseEnd:1770670635329"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636034,"level":"LOG","args":["FBNavDomContentLoaded:1770670635615"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636034,"level":"LOG","args":["FBNavLoadEventEnd:1770670635957"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636034,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636164,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636165,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636165,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636168,"level":"LOG","args":["FBNavMaxLongtaskMs:129"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636172,"level":"LOG","args":["FBNavFirstContentfulPaint:1770670635966"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636172,"level":"LOG","args":["FBNavFirstContentfulPaint:1770670635966"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavFirstContentfulPaint:1770670635966"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavFirstContentfulPaint:1770670635966"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavFirstContentfulPaint:1770670635966"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavFirstContentfulPaint:1770670635966"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavLargestContentfulPaint:1770670636018"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavLargestContentfulPaint:1770670636018"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavLargestContentfulPaint:1770670636018"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavLargestContentfulPaint:1770670636018"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavLargestContentfulPaint:1770670636018"],"stack":null}
+[2026-02-09T20:57:18.219Z] {"timestamp":1770670636173,"level":"LOG","args":["FBNavLargestContentfulPaint:1770670636018"],"stack":null}
+[2026-02-09T20:57:28.968Z] {"timestamp":1770670646952,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:57:28.968Z] {"timestamp":1770670646954,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:57:34.273Z] {"timestamp":1770670652136,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:57:34.273Z] {"timestamp":1770670652139,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:57:45.775Z] {"timestamp":1770670663760,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:57:45.775Z] {"timestamp":1770670663764,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:58:17.469Z] {"timestamp":1770670695691,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:58:17.469Z] {"timestamp":1770670695727,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T20:58:43.390Z] {"timestamp":1770670721375,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T20:58:43.390Z] {"timestamp":1770670721380,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689324,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689355,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689472,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689530,"level":"LOG","args":["FBNavDomContentLoaded:1770671689529"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689535,"level":"LOG","args":["FBNavResponseStart:1770671689082"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689535,"level":"LOG","args":["FBNavResponseEnd:1770671689123"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689535,"level":"LOG","args":["FBNavDomContentLoaded:1770671689529"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689535,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689625,"level":"LOG","args":["FBNavMaxLongtaskMs:63"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689625,"level":"LOG","args":["FBNavMaxLongtaskMs:87"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689824,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671689816"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671689825,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671689816"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690007,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671689996"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690007,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671689996"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690335,"level":"LOG","args":["FBNavResponseStart:1770671689082"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690336,"level":"LOG","args":["FBNavResponseEnd:1770671689123"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690336,"level":"LOG","args":["FBNavDomContentLoaded:1770671689529"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690336,"level":"LOG","args":["FBNavLoadEventEnd:1770671690181"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690336,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690337,"level":"LOG","args":["FBNavResponseStart:1770671689082"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690338,"level":"LOG","args":["FBNavResponseEnd:1770671689123"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690338,"level":"LOG","args":["FBNavDomContentLoaded:1770671689529"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690338,"level":"LOG","args":["FBNavLoadEventEnd:1770671690181"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690338,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690339,"level":"LOG","args":["FBNavResponseStart:1770671689082"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavResponseEnd:1770671689123"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavDomContentLoaded:1770671689529"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavLoadEventEnd:1770671690181"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671689996"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671689816"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671689996"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671689816"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671689996"],"stack":null}
+[2026-02-09T21:14:51.629Z] {"timestamp":1770671690340,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671689816"],"stack":null}
+[2026-02-09T21:14:53.588Z] {"timestamp":1770671692463,"level":"LOG","args":["FBNavINP:56"],"stack":null}
+[2026-02-09T21:14:53.588Z] {"timestamp":1770671692530,"level":"LOG","args":["FBNavINP:64"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736009,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736032,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736130,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736178,"level":"LOG","args":["FBNavDomContentLoaded:1770671736178"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736184,"level":"LOG","args":["FBNavResponseStart:1770671735806"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736184,"level":"LOG","args":["FBNavResponseEnd:1770671735810"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736184,"level":"LOG","args":["FBNavDomContentLoaded:1770671736178"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736185,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736381,"level":"LOG","args":["FBNavMaxLongtaskMs:58"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736381,"level":"LOG","args":["FBNavMaxLongtaskMs:132"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736382,"level":"LOG","args":["FBNavResponseStart:1770671735806"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736382,"level":"LOG","args":["FBNavResponseEnd:1770671735810"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736382,"level":"LOG","args":["FBNavDomContentLoaded:1770671736178"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736382,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736561,"level":"LOG","args":["FBNavResponseStart:1770671735806"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736561,"level":"LOG","args":["FBNavResponseEnd:1770671735810"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736562,"level":"LOG","args":["FBNavDomContentLoaded:1770671736178"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736562,"level":"LOG","args":["FBNavLoadEventEnd:1770671736560"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736562,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavResponseStart:1770671735806"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavResponseEnd:1770671735810"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavDomContentLoaded:1770671736178"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavLoadEventEnd:1770671736560"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671736427"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736567,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671736427"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736568,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671736427"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736568,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671736427"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736568,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671736427"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736571,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671736503"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736571,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671736503"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736571,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671736503"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736571,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671736503"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736571,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671736503"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavResponseStart:1770671735806"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavResponseEnd:1770671735810"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavDomContentLoaded:1770671736178"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavLoadEventEnd:1770671736560"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671736427"],"stack":null}
+[2026-02-09T21:15:39.084Z] {"timestamp":1770671736626,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671736503"],"stack":null}
+[2026-02-09T21:15:39.085Z] {"timestamp":1770671736785,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-09T21:15:39.085Z] {"timestamp":1770671736785,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-09T21:15:39.085Z] {"timestamp":1770671736785,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-09T21:15:39.085Z] {"timestamp":1770671736787,"level":"LOG","args":["FBNavMaxLongtaskMs:149"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785395,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785418,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785516,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785558,"level":"LOG","args":["FBNavDomContentLoaded:1770671785558"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785562,"level":"LOG","args":["FBNavResponseStart:1770671785086"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785562,"level":"LOG","args":["FBNavResponseEnd:1770671785088"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785563,"level":"LOG","args":["FBNavDomContentLoaded:1770671785558"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785563,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785733,"level":"LOG","args":["FBNavMaxLongtaskMs:52"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785733,"level":"LOG","args":["FBNavMaxLongtaskMs:106"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785734,"level":"LOG","args":["FBNavResponseStart:1770671785086"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785734,"level":"LOG","args":["FBNavResponseEnd:1770671785088"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785734,"level":"LOG","args":["FBNavDomContentLoaded:1770671785558"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785735,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavResponseStart:1770671785086"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavResponseEnd:1770671785088"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavDomContentLoaded:1770671785558"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavLoadEventEnd:1770671785775"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavResponseStart:1770671785086"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavResponseEnd:1770671785088"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavDomContentLoaded:1770671785558"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavLoadEventEnd:1770671785775"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785827,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785956,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785956,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785956,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785961,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671785772"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785961,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671785772"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785961,"level":"LOG","args":["FBNavMaxLongtaskMs:125"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785961,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671785772"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785961,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671785772"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785961,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671785772"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785966,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671785840"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785966,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671785840"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785966,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671785840"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785966,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671785840"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671785966,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671785840"],"stack":null}
+[2026-02-09T21:16:28.743Z] {"timestamp":1770671786447,"level":"LOG","args":["FBNavINP:64"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671808994,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671808994,"level":"LOG","args":["FBNavResponseStart:1770671808712"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671808994,"level":"LOG","args":["FBNavResponseEnd:1770671808713"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671808994,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809012,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809107,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809155,"level":"LOG","args":["FBNavDomContentLoaded:1770671809155"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809155,"level":"LOG","args":["FBNavDomContentLoaded:1770671809155"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809161,"level":"LOG","args":["FBNavResponseStart:1770671808712"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809161,"level":"LOG","args":["FBNavResponseEnd:1770671808713"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809161,"level":"LOG","args":["FBNavDomContentLoaded:1770671809155"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809161,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809330,"level":"LOG","args":["FBNavMaxLongtaskMs:57"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809330,"level":"LOG","args":["FBNavMaxLongtaskMs:109"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809330,"level":"LOG","args":["FBNavResponseStart:1770671808712"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809330,"level":"LOG","args":["FBNavResponseEnd:1770671808713"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809330,"level":"LOG","args":["FBNavDomContentLoaded:1770671809155"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809330,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809435,"level":"LOG","args":["FBNavResponseStart:1770671808712"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavResponseEnd:1770671808713"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavDomContentLoaded:1770671809155"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavLoadEventEnd:1770671809371"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavResponseStart:1770671808712"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavResponseEnd:1770671808713"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavDomContentLoaded:1770671809155"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavLoadEventEnd:1770671809371"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809436,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809568,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809568,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809568,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809572,"level":"LOG","args":["FBNavMaxLongtaskMs:130"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809576,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671809359"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809576,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671809359"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809576,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671809359"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809576,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671809359"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809576,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671809359"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809576,"level":"LOG","args":["FBNavFirstContentfulPaint:1770671809359"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809577,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671809431"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809577,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671809431"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809577,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671809431"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809577,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671809431"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809577,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671809431"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671809577,"level":"LOG","args":["FBNavLargestContentfulPaint:1770671809431"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671810233,"level":"LOG","args":["FBNavINP:64"],"stack":null}
+[2026-02-09T21:16:51.752Z] {"timestamp":1770671810256,"level":"LOG","args":["FBNavINP:72"],"stack":null}
+[2026-02-09T21:19:35.201Z] {"timestamp":1770671884059,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-09T21:19:50.524Z] {"timestamp":1770671988509,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T21:19:50.524Z] {"timestamp":1770671988513,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377397,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377399,"level":"LOG","args":["FBNavResponseStart:1770672376857"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377399,"level":"LOG","args":["FBNavResponseEnd:1770672376867"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377399,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377413,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377501,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377541,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377541,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377541,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377546,"level":"LOG","args":["FBNavResponseStart:1770672376857"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377546,"level":"LOG","args":["FBNavResponseEnd:1770672376867"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377546,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377546,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377730,"level":"LOG","args":["FBNavMaxLongtaskMs:111"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377731,"level":"LOG","args":["FBNavResponseStart:1770672376857"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377731,"level":"LOG","args":["FBNavResponseEnd:1770672376867"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377731,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377731,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavResponseStart:1770672376857"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavResponseEnd:1770672376867"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavLoadEventEnd:1770672377770"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavResponseStart:1770672376857"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavResponseEnd:1770672376867"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavDomContentLoaded:1770672377541"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavLoadEventEnd:1770672377770"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377828,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377965,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377965,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377965,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377970,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377970,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377970,"level":"LOG","args":["FBNavMaxLongtaskMs:135"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377970,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377970,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377970,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377971,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377971,"level":"LOG","args":["FBNavFirstContentfulPaint:1770672377794"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-09T21:26:20.376Z] {"timestamp":1770672377976,"level":"LOG","args":["FBNavLargestContentfulPaint:1770672377874"],"stack":null}
+[2026-02-10T04:36:51.300Z] {"timestamp":1770673951197,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-02-10T04:37:18.535Z] {"timestamp":1770698236526,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-10T04:37:18.535Z] {"timestamp":1770698236530,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539007,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539067,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539274,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539315,"level":"LOG","args":["FBNavDomContentLoaded:1770698539315"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539320,"level":"LOG","args":["FBNavResponseStart:1770698538453"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539320,"level":"LOG","args":["FBNavResponseEnd:1770698538460"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539320,"level":"LOG","args":["FBNavDomContentLoaded:1770698539315"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539320,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539502,"level":"LOG","args":["FBNavMaxLongtaskMs:110"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539604,"level":"LOG","args":["FBNavLargestContentfulPaint:1770698539601"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539604,"level":"LOG","args":["FBNavLargestContentfulPaint:1770698539601"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539634,"level":"LOG","args":["FBNavResponseStart:1770698538453"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavResponseEnd:1770698538460"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavDomContentLoaded:1770698539315"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavLoadEventEnd:1770698539540"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavResponseStart:1770698538453"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavResponseEnd:1770698538460"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavDomContentLoaded:1770698539315"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavLoadEventEnd:1770698539540"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539635,"level":"LOG","args":["FBNavAmpDetect:false"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539636,"level":"LOG","args":["FBNavFirstContentfulPaint:1770698539621"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539636,"level":"LOG","args":["FBNavFirstContentfulPaint:1770698539621"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539636,"level":"LOG","args":["FBNavFirstContentfulPaint:1770698539621"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539636,"level":"LOG","args":["FBNavLargestContentfulPaint:1770698539601"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539636,"level":"LOG","args":["FBNavFirstContentfulPaint:1770698539621"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539636,"level":"LOG","args":["FBNavLargestContentfulPaint:1770698539601"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539785,"level":"LOG","args":["text_and_dom: 2b8d591919cffdcf"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539785,"level":"LOG","args":["text_only: 1a8d5119198ce98f"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539785,"level":"LOG","args":["dom_only: 6739fb1b985fdfc7"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698539789,"level":"LOG","args":["FBNavMaxLongtaskMs:147"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698540448,"level":"LOG","args":["FBNavINP:56"],"stack":null}
+[2026-02-10T04:42:21.747Z] {"timestamp":1770698540484,"level":"LOG","args":["FBNavINP:72"],"stack":null}
+[2026-02-10T16:10:27.504Z] {"timestamp":1770699157272,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-03-15T20:17:59.738Z] {"timestamp":1773605877731,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-15T20:17:59.738Z] {"timestamp":1773605877765,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-16T04:04:34.341Z] {"timestamp":1773614305920,"level":"LOG","args":["[vite] server connection lost. Polling for restart..."],"stack":null}
+[2026-03-16T21:54:12.201Z] {"timestamp":1773698050197,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-16T21:54:12.201Z] {"timestamp":1773698050240,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-03-16T21:56:23.595Z] {"timestamp":1773698181577,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-03-16T21:56:23.595Z] {"timestamp":1773698181580,"level":"DEBUG","args":["[vite] connected."],"stack":null}

@@ -60,7 +60,7 @@ export default function HomePage() {
   const gallery = [
     {
       image: "/images/work-2-interior-light.webp",
-      title: "Unutarnja Rasvjeta",
+      title: "Osvjetljenje Fasade",
       category: "Rasvjeta",
     },
     {
@@ -70,7 +70,7 @@ export default function HomePage() {
     },
     {
       image: "/images/work-4-facade-light.webp",
-      title: "Osvjetljenje Fasade",
+      title: "Unurarnja rasvjeta",
       category: "Vanjska Rasvjeta",
     },
     {
