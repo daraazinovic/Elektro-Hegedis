@@ -59,34 +59,29 @@ export default function HomePage() {
 
   const gallery = [
     {
-      image: "/images/work-2-interior-light.webp",
-      title: "Osvjetljenje Fasade",
-      category: "Rasvjeta",
-    },
-    {
-      image: "/images/work-3-parking-light.webp",
-      title: "Osvjetljenje Parkirališta",
-      category: "Vanjska Rasvjeta",
-    },
-    {
-      image: "/images/work-4-facade-light.webp",
-      title: "Unurarnja rasvjeta",
-      category: "Vanjska Rasvjeta",
-    },
-    {
-      image: "/images/work-7-installation-panel.webp",
-      title: "Instalacijski Panel",
+      image: "/images/work-1-light-switch.webp",
+      title: "Montaža Prekidača",
       category: "Instalacija",
     },
     {
-      image: "/images/work-12-electrical-panel.webp",
+      image: "/images/work-2-installation.webp",
+      title: "Instalacija Kablova",
+      category: "Instalacija",
+    },
+    {
+      image: "/images/work-3-electrical-panel.webp",
       title: "Električni Panel",
       category: "Instalacija",
     },
     {
-      image: "/images/work-14-night-lighting.webp",
-      title: "Noćna Rasvjeta",
+      image: "/images/work-4-lighting-installation.webp",
+      title: "Montaža Rasvjete",
       category: "Rasvjeta",
+    },
+    {
+      image: "/images/work-5-panel-installation.webp",
+      title: "Instalacijski Panel",
+      category: "Instalacija",
     },
   ];
 
