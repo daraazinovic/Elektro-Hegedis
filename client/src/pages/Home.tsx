@@ -88,6 +88,18 @@ export default function HomePage() {
       title: "Noćna Rasvjeta",
       category: "Rasvjeta",
     },
+    {
+    image: "/images/work-2-interior-light.webp",
+      title: "Unutarnja Rasvjeta",
+      category: "Rasvjeta",
+      },
+      {
+         image: "/images/630317035_122188255172444800_5379657655913010199_n.jpg",
+      title: "Portafon",
+      category: "Rasvjeta",
+      }
+
+
   ];
 
   const testimonials = [
